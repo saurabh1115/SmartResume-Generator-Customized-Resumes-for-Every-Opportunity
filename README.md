@@ -1,0 +1,2 @@
+# SmartResume-Generator-Customized-Resumes-for-Every-Opportunity
+Customized Resumes for Every Opportunity is an AI-powered tool designed to create tailored, professional resumes effortlessly. It customizes content based on user input, optimizing layout and wording for specific job applications. With automated formatting and AI-driven suggestions, it ensures your resume stands out in competitive job markets.
